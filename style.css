@@ -1,0 +1,29 @@
+html {
+    background: url(https://addons-media.operacdn.com/media/CACHE/images/themes/05/71605/1.0-rev1/images/ab987dd6-bb35-419e-b67d-1581318dfdbb/82ee056f7346039460a06ffab8439bbb.jpg);
+    background-size: cover;
+    text-align: center;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.centro {
+
+    font-size: 20;
+    border: 3px solid rgb(12, 8, 219);
+    border-radius: 15px;
+    padding: 10px;
+    margin: 5px;
+    width: 150px;
+    box-shadow: 2px2px;
+    text-align: center10px;
+}
+
+.container{
+    border: ma 13px   black;
+    margin: 10px;
+    
+}
+
+.haha{
+    color: white;
+}
